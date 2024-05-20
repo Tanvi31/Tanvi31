@@ -56,7 +56,7 @@ I'm a passionate Full-Stack Developer with a knack for crafting robust and scala
 ## 📂 Featured Projects
 
 ### [E-Commerce Shop App](https://e-commerce-shop-app-five.vercel.app/)
-**Description:** 
+**Description:** Developed an eCommerece application that allows customers to purchase products online
 
 ### [Giphy](https://giphy-psi.vercel.app/)
 **Description:** Created Giphy application using ReactJS and Tailwind CSS. GIPHY is a platform that animates your world. Find the GIFs, Clips, and Stickers that make your conversations more positive, more expressive, and more ...
