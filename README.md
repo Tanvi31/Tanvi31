@@ -7,7 +7,7 @@ I'm a passionate Full-Stack Developer with a knack for crafting robust and scala
 ## 🚀 About Me
 
 - 🔭 **I’m currently working on:** [E-Commerce Shop App](https://e-commerce-shop-app-five.vercel.app/)
-- 🌱 **I’m currently learning:** Spring Boot
+- 🌱 **I’m currently learning:** Django
 - 💬 **Ask me about:** [Data Structures and Algorithms](https://leetcode.com/u/tanvi31/)
 - 📫 **How to reach me:** [tanvi.malhan31@gmail.com]
 
